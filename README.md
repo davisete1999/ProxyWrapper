@@ -1,1 +1,4 @@
 # ProxyWrapper
+# PYTHON 3.9
+# WRAPPER PARA OBTENER UN JSON DE PROXYS VÁLIDOS PARA UNA URL
+# USO: python main.py {URL}
